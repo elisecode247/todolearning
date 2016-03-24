@@ -1,0 +1,23 @@
+{
+  "name": "node-todo",
+  "version": "1.0.0",
+  "description": "A todo example from nodejs course",
+  "main": "app.js",
+  "author": "Elise <elisecode247@gmail.com>",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongoose": "^4.4.10"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "devDependencies": {
+    "body-parser": "^1.15.0",
+    "ejs": "^2.4.1",
+    "express": "^3.2.6",
+    "git": "^0.1.5",
+    "mongoose": "^4.4.10",
+    "nodemon": "^1.9.1"
+  },
+  "license": "ISC"
+}
